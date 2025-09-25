@@ -1,1 +1,1 @@
-# Problema-1---2025.2
+Este projeto consiste na implementação de uma Unidade Lógica e Aritmética (ULA) de 4 bits, desenvolvida em Verilog com modelagem puramente estrutural para a placa FPGA DE10-Lite. O trabalho foi realizado pelos estudantes Nícolas Carvalho Pimentel e Jhony da França Silva como requisito para a disciplina TEC 498 - Projeto de Circuitos Digitais, do curso de Engenharia de Computação da Universidade Estadual de Feira de Santana (UEFS), sob orientação do tutor Anfranserai Morais Dias.
